@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi 👋 WELCOME TO MY PROFILE
 
+[![HitCount](http://hits.dwyl.com/Moshaiye/Moshaiye.svg)](http://hits.dwyl.com/Moshaiye/Moshaiye)
 <!--
 **moshaiye/moshaiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+PLACES YOU CAN SEE ME👀
+Https://www.twitter.com/mohaaabdalle
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
